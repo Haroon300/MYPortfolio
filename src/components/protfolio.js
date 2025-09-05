@@ -73,7 +73,7 @@ const Portfolio = () => {
       description: 'Survey form for My upcoming project LeyEye',
       tech: ['React'],
       github: 'https://github.com/Haroon300/LexEye_SurveyForm.git',
-      live: 'lex-eye-survey-form.vercel.app'
+      live: 'https://lex-eye-survey-form.vercel.app/#survey'
     }
   ];
 
@@ -414,4 +414,5 @@ const Portfolio = () => {
 
 
 export default Portfolio;
+
 
