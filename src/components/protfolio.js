@@ -67,6 +67,13 @@ const Portfolio = () => {
       tech: ['Assembly'],
       github: 'https://github.com/Haroon300/F.R.I.D.A.Y.git',
       live: '#'
+    },
+    {
+      title: 'LexEye_SurveyForm',
+      description: 'Survey form for My upcoming project LeyEye',
+      tech: ['React'],
+      github: 'https://github.com/Haroon300/LexEye_SurveyForm.git',
+      live: 'lex-eye-survey-form.vercel.app'
     }
   ];
 
@@ -404,5 +411,6 @@ const Portfolio = () => {
     </div>
   );
 };
+
 
 export default Portfolio;
