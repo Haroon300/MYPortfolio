@@ -78,7 +78,7 @@ const Portfolio = () => {
     {
       title: 'LexEye',
       description: "Law Application in which user can search about there prblems and it's show how Law can help them",
-      tech: ['Vite'],
+      tech: ['Vite','Tailwind','Spline'],
       github: 'https://github.com/Haroon300/LexEye',
       live: 'https://lexeye.vercel.app/'
     }
@@ -421,6 +421,7 @@ const Portfolio = () => {
 
 
 export default Portfolio;
+
 
 
 
