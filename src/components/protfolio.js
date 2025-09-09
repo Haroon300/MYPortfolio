@@ -74,6 +74,13 @@ const Portfolio = () => {
       tech: ['React'],
       github: 'https://github.com/Haroon300/LexEye_SurveyForm.git',
       live: 'https://lex-eye-survey-form.vercel.app/#survey'
+    },
+    {
+      title: 'LexEye',
+      description: "Law Application in which user can search about there prblems and it's show how Law can help them",
+      tech: ['Vite'],
+      github: 'https://github.com/Haroon300/LexEye',
+      live: 'https://lexeye.vercel.app/'
     }
   ];
 
@@ -414,5 +421,6 @@ const Portfolio = () => {
 
 
 export default Portfolio;
+
 
 
